@@ -10,6 +10,7 @@ intents:
 - mood_unhappy
 - bot_challenge
 - there
+- engl
 responses:
   utter_greet:
   - text: Hey! How are you?
@@ -27,6 +28,9 @@ responses:
   utter_there:
   - text: Yes, still here and ready to serve you!
   - text: Yes, here to help you!
+  utter_english:
+  - text: Yes I do :-)
+  - text: Of course!
 actions:
 - utter_greet
 - utter_cheer_up
@@ -35,3 +39,4 @@ actions:
 - utter_goodbye
 - utter_iamabot
 - utter_there
+- utter_english

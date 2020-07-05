@@ -36,3 +36,12 @@
     - utter_greet
 * there
     - utter_there
+
+## New Story
+
+* greet
+    - utter_greet
+* goodbye
+    - utter_goodbye
+* engl
+    - utter_english
