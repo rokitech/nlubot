@@ -45,3 +45,12 @@
     - utter_goodbye
 * engl
     - utter_english
+
+## New Story
+
+* greet
+    - utter_greet
+* engl
+    - utter_english
+* rus
+    - utter_rus

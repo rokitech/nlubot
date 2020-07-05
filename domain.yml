@@ -11,6 +11,7 @@ intents:
 - bot_challenge
 - there
 - engl
+- rus
 responses:
   utter_greet:
   - text: Hey! How are you?
@@ -31,6 +32,9 @@ responses:
   utter_english:
   - text: Yes I do :-)
   - text: Of course!
+  utter_rus:
+  - text: Здравствуйте :-)
+  - text: Да, немножко.
 actions:
 - utter_greet
 - utter_cheer_up
@@ -40,3 +44,4 @@ actions:
 - utter_iamabot
 - utter_there
 - utter_english
+- utter_rus

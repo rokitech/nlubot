@@ -36,6 +36,7 @@
 - I am feeling very good
 - I am great
 - I'm good
+- great!
 
 ## intent:mood_unhappy
 - sad
@@ -62,3 +63,7 @@
 
 ## intent:engl
 - do you speak english?
+- do you speakenglish?
+
+## intent:rus
+- вы гворите по-русски?
