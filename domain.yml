@@ -12,6 +12,9 @@ intents:
 - there
 - engl
 - rus
+- application
+- woking_hours
+- ru_thank
 responses:
   utter_greet:
   - text: Hey! How are you?
@@ -35,6 +38,18 @@ responses:
   utter_rus:
   - text: Здравствуйте :-)
   - text: Да, немножко.
+  utter_apply:
+  - text: You can send your resume to hr@english-mania.com. Also please attache an
+      audio file with your voice or include a link link to such file placed online.
+  - text: ''
+  utter_wrkhrs:
+  - text: Уточните, пожалуйста, текущее время работы на нашем сайте https://rakuten.com
+  utter_test:
+  - text: да-да
+  utter_sched:
+  - text: Да!
+  utter_ru_thank_resp:
+  - text: Всегда рады помочь!
 actions:
 - utter_greet
 - utter_cheer_up
@@ -45,3 +60,8 @@ actions:
 - utter_there
 - utter_english
 - utter_rus
+- utter_apply
+- utter_wrkhrs
+- utter_test
+- utter_sched
+- utter_ru_thank_resp

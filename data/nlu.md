@@ -5,6 +5,8 @@
 - good morning
 - good evening
 - hey there
+- hello there
+- helo
 
 ## intent:goodbye
 - bye
@@ -60,6 +62,9 @@
 
 ## intent:there
 - still there?
+- Still there?
+- are you there?
+- ar eyou there?
 
 ## intent:engl
 - do you speak english?
@@ -67,3 +72,16 @@
 
 ## intent:rus
 - вы гворите по-русски?
+- Как дела
+- вы говорите по-русски,
+
+## intent:application
+- How can I apply as a teacher?
+- how can I apply?
+
+## intent:woking_hours
+- Вы сегодня работаете?
+- вы сегодн яработаете?
+
+## intent:ru_thank
+- Спасибо за помощь!
